@@ -7,6 +7,9 @@ same source.
 Maintained alongside the reference site at **https://pz2tools.wiki/** — if you
 only need to read the data, the site renders it as browsable tables.
 
+**Cite this dataset:** DOI [10.5281/zenodo.23263613](https://doi.org/10.5281/zenodo.23263613)
+(archived on Zenodo / CERN, CC BY 4.0, with a citable DOI).
+
 ## What's in here
 
 | File | Rows | What it is |
