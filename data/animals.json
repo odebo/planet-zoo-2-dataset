@@ -1,0 +1,3122 @@
+[
+ {
+  "common_name": "Aardvark",
+  "slug_en": "aardvark",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Tubulidentata",
+  "family": "Orycteropodidae",
+  "genus": "Orycteropus",
+  "biomes": [
+   "Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "50",
+  "weight_female_kg": "50",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Clown Anemonefish",
+  "slug_en": "clown-anemonefish",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Blenniiformes",
+  "family": "Pomacentridae",
+  "genus": "Amphiprion",
+  "biomes": [
+   "Reef|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean|IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Nyala",
+  "slug_en": "nyala",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Bovidae",
+  "genus": "Tragelaphus",
+  "biomes": [
+   "Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "112",
+  "weight_female_kg": "64",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Sable Antelope",
+  "slug_en": "sable-antelope",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Hippotraginae",
+  "genus": "Hippotragus",
+  "biomes": [
+   "Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "235",
+  "weight_female_kg": "220",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Springbok",
+  "slug_en": "springbok",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Bovidae",
+  "genus": "Antidorcas",
+  "biomes": [
+   "Desert|Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "35",
+  "weight_female_kg": "35",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "North Sulawesi Babirusa",
+  "slug_en": "north-sulawesi-babirusa",
+  "conservation_status": "Vulnerable",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Suidae",
+  "genus": "Babyrousa",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "85",
+  "weight_female_kg": "61.5",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Schooling Bannerfish",
+  "slug_en": "schooling-bannerfish",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Acanthuriformes",
+  "family": "Chaetodontidae",
+  "genus": "Heniochus",
+  "biomes": [
+   "Reef|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean|IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Longfin Batfish",
+  "slug_en": "longfin-batfish",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Acanthuriformes",
+  "family": "Ephippidae",
+  "genus": "Platax",
+  "biomes": [
+   "Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "Deluxe",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Eurasian Brown Bear",
+  "slug_en": "eurasian-brown-bear",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Ursidae",
+  "genus": "Ursus",
+  "biomes": [
+   "Taiga|Temperate|Tundra"
+  ],
+  "continents": "Asia|Europe",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "NoseToRump",
+  "weight_male_kg": "1",
+  "weight_female_kg": "1",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Grizzly Bear",
+  "slug_en": "grizzly-bear",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Ursidae",
+  "genus": "Ursus",
+  "biomes": [
+   "Taiga|Temperate|Tundra|Wetlands"
+  ],
+  "continents": "NorthAmerica",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "220",
+  "weight_female_kg": "165",
+  "barrier_grade": "4",
+  "barrier_min_height_m": "2",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Sun Bear",
+  "slug_en": "sun-bear",
+  "conservation_status": "Vulnerable",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Ursidae",
+  "genus": "Helarctos",
+  "biomes": [
+   "Rainforest|Wetlands"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "NoseToRump",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Eurasian Beaver",
+  "slug_en": "eurasian-beaver",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Rodentia",
+  "family": "Castoridae",
+  "genus": "Castor",
+  "biomes": [
+   "LakesAndRivers|Taiga|Temperate"
+  ],
+  "continents": "Asia|Europe",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "NoseToRump",
+  "weight_male_kg": "20",
+  "weight_female_kg": "20",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Goliath Beetle",
+  "slug_en": "goliath-beetle",
+  "conservation_status": "NotEvaluated",
+  "class": "Insecta",
+  "order": "Coleoptera",
+  "family": "Scarabaeidae",
+  "genus": "Goliathus",
+  "biomes": [
+   "Rainforest|Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Sacred Scarab Beetle",
+  "slug_en": "sacred-scarab-beetle",
+  "conservation_status": "NotEvaluated",
+  "class": "Insecta",
+  "order": "Coleoptera",
+  "family": "Scarabaeidae",
+  "genus": "Scarabaeus",
+  "biomes": [
+   "Desert"
+  ],
+  "continents": "Africa|Asia|Europe",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "European Bison",
+  "slug_en": "european-bison",
+  "conservation_status": "NearThreatened",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Bovidae",
+  "genus": "Bison",
+  "biomes": [
+   "Taiga|Temperate"
+  ],
+  "continents": "Europe",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "1",
+  "weight_female_kg": "1",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Eurasian Bittern",
+  "slug_en": "eurasian-bittern",
+  "conservation_status": "LeastConcern",
+  "class": "Aves",
+  "order": "Pelecaniformes",
+  "family": "Ardeidae",
+  "genus": "Botaurus",
+  "biomes": [
+   "Temperate|Wetlands"
+  ],
+  "continents": "Africa|Asia|Europe",
+  "enclosure_types": [
+   "HabitatFlying"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Wild Boar",
+  "slug_en": "wild-boar",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Suidae",
+  "genus": "Sus",
+  "biomes": [
+   "Rainforest|Savannah|Temperate|Wetlands"
+  ],
+  "continents": "Africa|Asia|Europe",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "1",
+  "weight_female_kg": "1",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Cape Buffalo",
+  "slug_en": "cape-buffalo",
+  "conservation_status": "NearThreatened",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Bovidae",
+  "genus": "Syncerus",
+  "biomes": [
+   "Savannah|Wetlands"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "680",
+  "weight_female_kg": "580",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Cloudless Sulphur",
+  "slug_en": "cloudless-sulphur",
+  "conservation_status": "LeastConcern",
+  "class": "Insecta",
+  "order": "Lepidoptera",
+  "family": "Pieridae",
+  "genus": "Phoebis",
+  "biomes": [
+   "Savannah|Taiga|Temperate"
+  ],
+  "continents": "NorthAmerica|SouthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "European Peacock",
+  "slug_en": "european-peacock",
+  "conservation_status": "LeastConcern",
+  "class": "Insecta",
+  "order": "Lepidoptera",
+  "family": "Nymphalidae",
+  "genus": "Aglais",
+  "biomes": [
+   "Savannah|Temperate"
+  ],
+  "continents": "Asia|Europe",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Sri Lankan Rose",
+  "slug_en": "sri-lankan-rose",
+  "conservation_status": "Endangered",
+  "class": "Insecta",
+  "order": "Lepidoptera",
+  "family": "Papilionidae",
+  "genus": "Pachliopta",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Menelaus Blue Morpho",
+  "slug_en": "menelaus-blue-morpho",
+  "conservation_status": "NotEvaluated",
+  "class": "Insecta",
+  "order": "Lepidoptera",
+  "family": "Nymphalidae",
+  "genus": "Morpho",
+  "biomes": [
+   "Rainforest|Savannah"
+  ],
+  "continents": "SouthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Monarch",
+  "slug_en": "monarch",
+  "conservation_status": "Vulnerable",
+  "class": "Insecta",
+  "order": "Lepidoptera",
+  "family": "Nymphalidae",
+  "genus": "Danaus",
+  "biomes": [
+   "Rainforest|Savannah|Temperate"
+  ],
+  "continents": "Asia|Australasia|NorthAmerica|SouthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Old World Swallowtail",
+  "slug_en": "old-world-swallowtail",
+  "conservation_status": "LeastConcern",
+  "class": "Insecta",
+  "order": "Lepidoptera",
+  "family": "Papilionidae",
+  "genus": "Papilio",
+  "biomes": [
+   "Savannah|Taiga|Temperate|Tundra"
+  ],
+  "continents": "Asia|Europe|NorthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Bactrian Camel",
+  "slug_en": "bactrian-camel",
+  "conservation_status": "Domesticated",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Camelidae",
+  "genus": "Camelus",
+  "biomes": [
+   "Desert|Savannah|Temperate"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "725",
+  "weight_female_kg": "725",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Amazonian Giant Centipede",
+  "slug_en": "amazonian-giant-centipede",
+  "conservation_status": "NotEvaluated",
+  "class": "Chilopoda",
+  "order": "Scolopendromorpha",
+  "family": "Scolopendridae",
+  "genus": "Scolopendra",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "SouthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Western Chimpanzee",
+  "slug_en": "western-chimpanzee",
+  "conservation_status": "CriticallyEndangered",
+  "class": "Mammalia",
+  "order": "Primates",
+  "family": "Hominidae",
+  "genus": "Pan",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Standing",
+  "weight_male_kg": "50",
+  "weight_female_kg": "40",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "true"
+ },
+ {
+  "common_name": "Blunthead Cichlid",
+  "slug_en": "blunthead-cichlid",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Cichliformes",
+  "family": "Cichlidae",
+  "genus": "Tropheus",
+  "biomes": [
+   "LakesAndRivers|LakesAndRivers"
+  ],
+  "continents": "Africa|Africa",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Boa Constrictor",
+  "slug_en": "boa-constrictor",
+  "conservation_status": "LeastConcern",
+  "class": "Reptilia",
+  "order": "Squamata",
+  "family": "Boidae",
+  "genus": "Boa",
+  "biomes": [
+   "Rainforest|Savannah"
+  ],
+  "continents": "NorthAmerica|SouthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Yellow Anaconda",
+  "slug_en": "yellow-anaconda",
+  "conservation_status": "LeastConcern",
+  "class": "Reptilia",
+  "order": "Squamata",
+  "family": "Boidae",
+  "genus": "Eunectes",
+  "biomes": [
+   "Savannah|Wetlands"
+  ],
+  "continents": "SouthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "30",
+  "weight_female_kg": "30",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Saltwater Crocodile",
+  "slug_en": "saltwater-crocodile",
+  "conservation_status": "LeastConcern",
+  "class": "Reptilia",
+  "order": "Crocodilia",
+  "family": "Crocodylidae",
+  "genus": "Crocodylus",
+  "biomes": [
+   "Estuarine|Mangrove|Rainforest"
+  ],
+  "continents": "Asia|Australasia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "240",
+  "weight_female_kg": "160",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Threespot Damselfish",
+  "slug_en": "threespot-damselfish",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Blenniiformes",
+  "family": "Pomacentridae",
+  "genus": "Dascyllus",
+  "biomes": [
+   "Mangrove|Reef|Mangrove|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean|IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Red Deer",
+  "slug_en": "red-deer",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Cervidae",
+  "genus": "Cervus",
+  "biomes": [
+   "Temperate"
+  ],
+  "continents": "Africa|Asia|Europe",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "1",
+  "weight_female_kg": "1",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "African Wild Dog",
+  "slug_en": "african-wild-dog",
+  "conservation_status": "Endangered",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Canidae",
+  "genus": "Lycaon",
+  "biomes": [
+   "Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Dolphinfish",
+  "slug_en": "dolphinfish",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Carangiformes",
+  "family": "Coryphaenidae",
+  "genus": "Coryphaena",
+  "biomes": [
+   "OpenSea"
+  ],
+  "continents": "AtlanticOcean|IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Golden Eagle",
+  "slug_en": "golden-eagle",
+  "conservation_status": "LeastConcern",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "genus": "Aquila",
+  "biomes": [
+   "Desert|Savannah|Taiga|Temperate|Tundra"
+  ],
+  "continents": "Africa|Asia|Europe|NorthAmerica",
+  "enclosure_types": [
+   "HabitatFlying"
+  ],
+  "content_pack": "Deluxe",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "White-Tailed Sea-Eagle",
+  "slug_en": "white-tailed-sea-eagle",
+  "conservation_status": "LeastConcern",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "genus": "Haliaeetus",
+  "biomes": [
+   "Taiga|Temperate|Tundra|Wetlands"
+  ],
+  "continents": "Asia|Europe",
+  "enclosure_types": [
+   "HabitatFlying"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "African Savannah Elephant",
+  "slug_en": "african-savannah-elephant",
+  "conservation_status": "Endangered",
+  "class": "Mammalia",
+  "order": "Proboscidea",
+  "family": "Elephantidae",
+  "genus": "Loxodonta",
+  "biomes": [
+   "Desert|Savannah|Wetlands"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "1",
+  "weight_female_kg": "1",
+  "barrier_grade": "4",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Asian Elephant",
+  "slug_en": "asian-elephant",
+  "conservation_status": "Endangered",
+  "class": "Mammalia",
+  "order": "Proboscidea",
+  "family": "Elephantidae",
+  "genus": "Elephas",
+  "biomes": [
+   "Rainforest|Savannah|Wetlands"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "4",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Greater Flamingo",
+  "slug_en": "greater-flamingo",
+  "conservation_status": "LeastConcern",
+  "class": "Aves",
+  "order": "Phoenicopteriformes",
+  "family": "Phoenicopteridae",
+  "genus": "Phoenicopterus",
+  "biomes": [
+   "Estuarine|Temperate|Wetlands"
+  ],
+  "continents": "Africa|Asia|Europe",
+  "enclosure_types": [
+   "HabitatFlying"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Height",
+  "weight_male_kg": "3",
+  "weight_female_kg": "3",
+  "barrier_grade": "1",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "American Bullfrog",
+  "slug_en": "american-bullfrog",
+  "conservation_status": "LeastConcern",
+  "class": "Amphibia",
+  "order": "Anura",
+  "family": "Ranidae",
+  "genus": "Lithobates",
+  "biomes": [
+   "LakesAndRivers|Wetlands"
+  ],
+  "continents": "NorthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "0.4",
+  "weight_female_kg": "0.4",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Giant Slippery Frog",
+  "slug_en": "giant-slippery-frog",
+  "conservation_status": "Endangered",
+  "class": "Amphibia",
+  "order": "Anura",
+  "family": "Conrauidae",
+  "genus": "Conraua",
+  "biomes": [
+   "LakesAndRivers"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "2.3",
+  "weight_female_kg": "2.3",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Blue and Gold Fusilier",
+  "slug_en": "blue-and-gold-fusilier",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Acanthuriformes",
+  "family": "Lutjanidae",
+  "genus": "Caesio",
+  "biomes": [
+   "Reef|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean|IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "Deluxe",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Thomson's Gazelle",
+  "slug_en": "thomson-s-gazelle",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Bovidae",
+  "genus": "Eudorcas",
+  "biomes": [
+   "Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "27",
+  "weight_female_kg": "27",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Gharial",
+  "slug_en": "gharial",
+  "conservation_status": "CriticallyEndangered",
+  "class": "Reptilia",
+  "order": "Crocodilia",
+  "family": "Gavialidae",
+  "genus": "Gavialis",
+  "biomes": [
+   "LakesAndRivers|Rainforest|Wetlands"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "300",
+  "weight_female_kg": "105",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Siamang",
+  "slug_en": "siamang",
+  "conservation_status": "Endangered",
+  "class": "Mammalia",
+  "order": "Primates",
+  "family": "Hylobatidae",
+  "genus": "Symphalangus",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Standing",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "true"
+ },
+ {
+  "common_name": "Masai Giraffe",
+  "slug_en": "masai-giraffe",
+  "conservation_status": "Endangered",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Giraffidae",
+  "genus": "Giraffa",
+  "biomes": [
+   "Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Height",
+  "weight_male_kg": "1",
+  "weight_female_kg": "1",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Reticulated Giraffe",
+  "slug_en": "reticulated-giraffe",
+  "conservation_status": "Endangered",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Giraffidae",
+  "genus": "Giraffa",
+  "biomes": [
+   "Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Height",
+  "weight_male_kg": "1190",
+  "weight_female_kg": "830",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "2",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Western Lowland Gorilla",
+  "slug_en": "western-lowland-gorilla",
+  "conservation_status": "CriticallyEndangered",
+  "class": "Mammalia",
+  "order": "Primates",
+  "family": "Hominidae",
+  "genus": "Gorilla",
+  "biomes": [
+   "Rainforest|Wetlands"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Standing",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "true"
+ },
+ {
+  "common_name": "Giant Gourami",
+  "slug_en": "giant-gourami",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Anabantiformes",
+  "family": "Osphronemidae",
+  "genus": "Osphronemus",
+  "biomes": [
+   "LakesAndRivers|LakesAndRivers"
+  ],
+  "continents": "Asia|Asia",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Giant Grouper",
+  "slug_en": "giant-grouper",
+  "conservation_status": "DataDeficient",
+  "class": "Actinopterygii",
+  "order": "Perciformes",
+  "family": "Epinephelidae",
+  "genus": "Epinephelus",
+  "biomes": [
+   "Estuarine|Mangrove|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Mountain Hare",
+  "slug_en": "mountain-hare",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Lagomorpha",
+  "family": "Leporidae",
+  "genus": "Lepus",
+  "biomes": [
+   "Taiga|Temperate|Tundra"
+  ],
+  "continents": "Arctic|Asia|Europe",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "NoseToRump",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "1",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "true"
+ },
+ {
+  "common_name": "Common Hippopotamus",
+  "slug_en": "common-hippopotamus",
+  "conservation_status": "Vulnerable",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Hippopotamidae",
+  "genus": "Hippopotamus",
+  "biomes": [
+   "LakesAndRivers|Savannah|Wetlands"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "1750",
+  "weight_female_kg": "1250",
+  "barrier_grade": "4",
+  "barrier_min_height_m": "2",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Great Hornbill",
+  "slug_en": "great-hornbill",
+  "conservation_status": "Vulnerable",
+  "class": "Aves",
+  "order": "Bucerotiformes",
+  "family": "Bucerotidae",
+  "genus": "Buceros",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatFlying"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Przewalski's Horse",
+  "slug_en": "przewalski-s-horse",
+  "conservation_status": "Endangered",
+  "class": "Mammalia",
+  "order": "Perissodactyla",
+  "family": "Equidae",
+  "genus": "Equus",
+  "biomes": [
+   "Desert|Savannah"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "305",
+  "weight_female_kg": "305",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Spotted Hyena",
+  "slug_en": "spotted-hyena",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Hyaenidae",
+  "genus": "Crocuta",
+  "biomes": [
+   "Desert|Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Giant Malaysian Leaf Insect",
+  "slug_en": "giant-malaysian-leaf-insect",
+  "conservation_status": "NotEvaluated",
+  "class": "Insecta",
+  "order": "Phasmatodea",
+  "family": "Phylliidae",
+  "genus": "Pulchriphyllium",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Moon Jelly",
+  "slug_en": "moon-jelly",
+  "conservation_status": "NotEvaluated",
+  "class": "Scyphozoa",
+  "order": "Semaeostomeae",
+  "family": "Ulmaridae",
+  "genus": "Aurelia",
+  "biomes": [
+   "Estuarine|OpenSea"
+  ],
+  "continents": "ArcticOcean|AtlanticOcean|IndianOcean|PacificOcean|SouthernOcean",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Goodfellow's Tree-Kangaroo",
+  "slug_en": "goodfellow-s-tree-kangaroo",
+  "conservation_status": "Endangered",
+  "class": "Mammalia",
+  "order": "Diprotodontia",
+  "family": "Macropodidae",
+  "genus": "Dendrolagus",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "Australasia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "NoseToRump",
+  "weight_male_kg": "1",
+  "weight_female_kg": "1",
+  "barrier_grade": "1",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Ring-Tailed Lemur",
+  "slug_en": "ring-tailed-lemur",
+  "conservation_status": "Endangered",
+  "class": "Mammalia",
+  "order": "Primates",
+  "family": "Lemuridae",
+  "genus": "Lemur",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Standing",
+  "weight_male_kg": "2.7",
+  "weight_female_kg": "2.7",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "true"
+ },
+ {
+  "common_name": "African Leopard",
+  "slug_en": "african-leopard",
+  "conservation_status": "Vulnerable",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Felidae",
+  "genus": "Panthera",
+  "biomes": [
+   "Rainforest|Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "200",
+  "weight_female_kg": "150",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Snow Leopard",
+  "slug_en": "snow-leopard",
+  "conservation_status": "Vulnerable",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Felidae",
+  "genus": "Panthera",
+  "biomes": [
+   "Taiga|Tundra"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "40",
+  "weight_female_kg": "40",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Lion",
+  "slug_en": "lion",
+  "conservation_status": "Vulnerable",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Felidae",
+  "genus": "Panthera",
+  "biomes": [
+   "Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Red Lionfish",
+  "slug_en": "red-lionfish",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Perciformes",
+  "family": "Scorpaenidae",
+  "genus": "Pterois",
+  "biomes": [
+   "Estuarine|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Common Bluetongue",
+  "slug_en": "common-bluetongue",
+  "conservation_status": "LeastConcern",
+  "class": "Reptilia",
+  "order": "Squamata",
+  "family": "Scincidae",
+  "genus": "Tiliqua",
+  "biomes": [
+   "Rainforest|Savannah|Temperate"
+  ],
+  "continents": "Australasia",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "0.35",
+  "weight_female_kg": "0.35",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Gila Monster",
+  "slug_en": "gila-monster",
+  "conservation_status": "NearThreatened",
+  "class": "Reptilia",
+  "order": "Squamata",
+  "family": "Helodermatidae",
+  "genus": "Heloderma",
+  "biomes": [
+   "Desert"
+  ],
+  "continents": "NorthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "0.525",
+  "weight_female_kg": "0.525",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Komodo Dragon",
+  "slug_en": "komodo-dragon",
+  "conservation_status": "Endangered",
+  "class": "Reptilia",
+  "order": "Squamata",
+  "family": "Varanidae",
+  "genus": "Varanus",
+  "biomes": [
+   "Mangrove|Rainforest|Wetlands"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "85",
+  "weight_female_kg": "71",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Nile Monitor",
+  "slug_en": "nile-monitor",
+  "conservation_status": "LeastConcern",
+  "class": "Reptilia",
+  "order": "Squamata",
+  "family": "Varanidae",
+  "genus": "Varanus",
+  "biomes": [
+   "Savannah|Wetlands"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "8",
+  "weight_female_kg": "8",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "0.5",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Clown Loach",
+  "slug_en": "clown-loach",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Cypriniformes",
+  "family": "Botiidae",
+  "genus": "Chromobotia",
+  "biomes": [
+   "LakesAndRivers|LakesAndRivers"
+  ],
+  "continents": "Asia|Asia",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Eurasian Lynx",
+  "slug_en": "eurasian-lynx",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Felidae",
+  "genus": "Lynx",
+  "biomes": [
+   "Taiga|Temperate|Tundra"
+  ],
+  "continents": "Asia|Europe",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Javan Green Magpie",
+  "slug_en": "javan-green-magpie",
+  "conservation_status": "CriticallyEndangered",
+  "class": "Aves",
+  "order": "Passeriformes",
+  "family": "Corvidae",
+  "genus": "Cissa",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatFlying"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "1",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "West Indian Manatee",
+  "slug_en": "west-indian-manatee",
+  "conservation_status": "Vulnerable",
+  "class": "Mammalia",
+  "order": "Sirenia",
+  "family": "Trichechidae",
+  "genus": "Trichechus",
+  "biomes": [
+   "Estuarine|LakesAndRivers|Mangrove|OpenSea|Wetlands"
+  ],
+  "continents": "NorthAmerica|SouthAmerica",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Meerkat",
+  "slug_en": "meerkat",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Herpestidae",
+  "genus": "Suricata",
+  "biomes": [
+   "Desert|Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "0.775",
+  "weight_female_kg": "0.775",
+  "barrier_grade": "1",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Golden Lion Tamarin",
+  "slug_en": "golden-lion-tamarin",
+  "conservation_status": "Endangered",
+  "class": "Mammalia",
+  "order": "Primates",
+  "family": "Callitrichidae",
+  "genus": "Leontopithecus",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "SouthAmerica",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "Deluxe",
+  "size_measurement": "NoseToRump",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "1",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "true"
+ },
+ {
+  "common_name": "Sumatran Orangutan",
+  "slug_en": "sumatran-orangutan",
+  "conservation_status": "CriticallyEndangered",
+  "class": "Mammalia",
+  "order": "Primates",
+  "family": "Hominidae",
+  "genus": "Pongo",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "NoseToRump",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "true"
+ },
+ {
+  "common_name": "Gemsbok",
+  "slug_en": "gemsbok",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Bovidae",
+  "genus": "Oryx",
+  "biomes": [
+   "Desert|Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "260",
+  "weight_female_kg": "155",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Common Ostrich",
+  "slug_en": "common-ostrich",
+  "conservation_status": "LeastConcern",
+  "class": "Aves",
+  "order": "Struthioniformes",
+  "family": "Struthionidae",
+  "genus": "Struthio",
+  "biomes": [
+   "Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Height",
+  "weight_male_kg": "125",
+  "weight_female_kg": "110",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Long-Eared Owl",
+  "slug_en": "long-eared-owl",
+  "conservation_status": "LeastConcern",
+  "class": "Aves",
+  "order": "Strigiformes",
+  "family": "Strigidae",
+  "genus": "Asio",
+  "biomes": [
+   "Savannah|Taiga|Temperate|Wetlands"
+  ],
+  "continents": "Africa|Asia|Europe|NorthAmerica",
+  "enclosure_types": [
+   "HabitatFlying"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Giant Panda",
+  "slug_en": "giant-panda",
+  "conservation_status": "Vulnerable",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Ursidae",
+  "genus": "Ailuropoda",
+  "biomes": [
+   "Temperate"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "NoseToRump",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "4",
+  "barrier_min_height_m": "2",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Red Panda",
+  "slug_en": "red-panda",
+  "conservation_status": "Endangered",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Ailuridae",
+  "genus": "Ailurus",
+  "biomes": [
+   "Taiga|Temperate"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "NoseToRump",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "true"
+ },
+ {
+  "common_name": "Sunda Pangolin",
+  "slug_en": "sunda-pangolin",
+  "conservation_status": "CriticallyEndangered",
+  "class": "Mammalia",
+  "order": "Pholidota",
+  "family": "Manidae",
+  "genus": "Manis",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "NoseToRump",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Long-Tailed Parakeet",
+  "slug_en": "long-tailed-parakeet",
+  "conservation_status": "Vulnerable",
+  "class": "Aves",
+  "order": "Psittaciformes",
+  "family": "Psittaculidae",
+  "genus": "Belocercus",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatFlying"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "African Penguin",
+  "slug_en": "african-penguin",
+  "conservation_status": "CriticallyEndangered",
+  "class": "Aves",
+  "order": "Sphenisciformes",
+  "family": "Spheniscidae",
+  "genus": "Spheniscus",
+  "biomes": [
+   "OpenSea|Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Standing",
+  "weight_male_kg": "3.1",
+  "weight_female_kg": "3.1",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Blackspotted Puffer",
+  "slug_en": "blackspotted-puffer",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Tetraodontiformes",
+  "family": "Tetraodontidae",
+  "genus": "Arothron",
+  "biomes": [
+   "Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "NoseToRump",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "1",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Boeseman's Rainbowfish",
+  "slug_en": "boeseman-s-rainbowfish",
+  "conservation_status": "Endangered",
+  "class": "Actinopterygii",
+  "order": "Atheriniformes",
+  "family": "Melanotaeniidae",
+  "genus": "Melanotaenia",
+  "biomes": [
+   "LakesAndRivers|LakesAndRivers"
+  ],
+  "continents": "Australasia|Australasia",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Ocellated Eagle Ray",
+  "slug_en": "ocellated-eagle-ray",
+  "conservation_status": "Endangered",
+  "class": "Chondrichthyes",
+  "order": "Myliobatiformes",
+  "family": "Aetobatidae",
+  "genus": "Aetobatus",
+  "biomes": [
+   "Estuarine|OpenSea|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "1",
+  "weight_female_kg": "1",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Common Rudd",
+  "slug_en": "common-rudd",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Cypriniformes",
+  "family": "Leuciscidae",
+  "genus": "Scardinius",
+  "biomes": [
+   "LakesAndRivers|LakesAndRivers"
+  ],
+  "continents": "Asia|Europe|Asia|Europe",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Axolotl",
+  "slug_en": "axolotl",
+  "conservation_status": "CriticallyEndangered",
+  "class": "Amphibia",
+  "order": "Urodela",
+  "family": "Ambystomatidae",
+  "genus": "Ambystoma",
+  "biomes": [
+   "LakesAndRivers"
+  ],
+  "continents": "NorthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "Deluxe",
+  "size_measurement": "Length",
+  "weight_male_kg": "0.3",
+  "weight_female_kg": "0.3",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Danube Crested Newt",
+  "slug_en": "danube-crested-newt",
+  "conservation_status": "LeastConcern",
+  "class": "Amphibia",
+  "order": "Urodela",
+  "family": "Salamandridae",
+  "genus": "Triturus",
+  "biomes": [
+   "LakesAndRivers|Wetlands"
+  ],
+  "continents": "Europe",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Fire Salamander",
+  "slug_en": "fire-salamander",
+  "conservation_status": "Vulnerable",
+  "class": "Amphibia",
+  "order": "Urodela",
+  "family": "Salamandridae",
+  "genus": "Salamandra",
+  "biomes": [
+   "Temperate|Wetlands"
+  ],
+  "continents": "Europe",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "0.04",
+  "weight_female_kg": "0.04",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Pacific Sardine",
+  "slug_en": "pacific-sardine",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Clupeiformes",
+  "family": "Alosidae",
+  "genus": "Sardinops",
+  "biomes": [
+   "OpenSea"
+  ],
+  "continents": "IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Giant Forest Scorpion",
+  "slug_en": "giant-forest-scorpion",
+  "conservation_status": "NotEvaluated",
+  "class": "Arachnida",
+  "order": "Scorpiones",
+  "family": "Scorpionidae",
+  "genus": "Gigantometrus",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Secretarybird",
+  "slug_en": "secretarybird",
+  "conservation_status": "Endangered",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Sagittariidae",
+  "genus": "Sagittarius",
+  "biomes": [
+   "Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatFlying"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Indo-Pacific Sergeant",
+  "slug_en": "indo-pacific-sergeant",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Blenniiformes",
+  "family": "Pomacentridae",
+  "genus": "Abudefduf",
+  "biomes": [
+   "OpenSea|Reef|OpenSea|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean|IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Blacktip Reef Shark",
+  "slug_en": "blacktip-reef-shark",
+  "conservation_status": "Vulnerable",
+  "class": "Chondrichthyes",
+  "order": "Carcharhiniformes",
+  "family": "Carcharhinidae",
+  "genus": "Carcharhinus",
+  "biomes": [
+   "Estuarine|Mangrove|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Great Hammerhead",
+  "slug_en": "great-hammerhead",
+  "conservation_status": "CriticallyEndangered",
+  "class": "Chondrichthyes",
+  "order": "Carcharhiniformes",
+  "family": "Sphyrnidae",
+  "genus": "Sphyrna",
+  "biomes": [
+   "OpenSea|Reef"
+  ],
+  "continents": "AtlanticOcean|IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "Deluxe",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Indo-Pacific Leopard Shark",
+  "slug_en": "indo-pacific-leopard-shark",
+  "conservation_status": "Endangered",
+  "class": "Chondrichthyes",
+  "order": "Orectolobiformes",
+  "family": "Stegostomatidae",
+  "genus": "Stegostoma",
+  "biomes": [
+   "Estuarine|Mangrove|OpenSea|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Shoebill",
+  "slug_en": "shoebill",
+  "conservation_status": "Vulnerable",
+  "class": "Aves",
+  "order": "Pelecaniformes",
+  "family": "Balaenicipitidae",
+  "genus": "Balaeniceps",
+  "biomes": [
+   "Wetlands"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatFlying"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Giant Tiger Land Snail",
+  "slug_en": "giant-tiger-land-snail",
+  "conservation_status": "NotEvaluated",
+  "class": "Gastropoda",
+  "order": "Stylommatophora",
+  "family": "Achatinidae",
+  "genus": "Achatina",
+  "biomes": [
+   "Rainforest|Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Sailfin Snapper",
+  "slug_en": "sailfin-snapper",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Acanthuriformes",
+  "family": "Lutjanidae",
+  "genus": "Symphorichthys",
+  "biomes": [
+   "Reef"
+  ],
+  "continents": "Asia|Australasia",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "1.3",
+  "weight_female_kg": "1.3",
+  "barrier_grade": "1",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Ocean Sunfish",
+  "slug_en": "ocean-sunfish",
+  "conservation_status": "Vulnerable",
+  "class": "Actinopterygii",
+  "order": "Tetraodontiformes",
+  "family": "Molidae",
+  "genus": "Mola",
+  "biomes": [
+   "OpenSea"
+  ],
+  "continents": "IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Height",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Palette Surgeonfish",
+  "slug_en": "palette-surgeonfish",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Acanthuriformes",
+  "family": "Acanthuridae",
+  "genus": "Paracanthurus",
+  "biomes": [
+   "Reef|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean|IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Indian Ocean Oriental Sweetlips",
+  "slug_en": "indian-ocean-oriental-sweetlips",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Acanthuriformes",
+  "family": "Haemulidae",
+  "genus": "Plectorhinchus",
+  "biomes": [
+   "Estuarine|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Yellow Tang",
+  "slug_en": "yellow-tang",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Acanthuriformes",
+  "family": "Acanthuridae",
+  "genus": "Zebrasoma",
+  "biomes": [
+   "Reef|Reef"
+  ],
+  "continents": "PacificOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Malayan Tapir",
+  "slug_en": "malayan-tapir",
+  "conservation_status": "Endangered",
+  "class": "Mammalia",
+  "order": "Perissodactyla",
+  "family": "Tapiridae",
+  "genus": "Tapirus",
+  "biomes": [
+   "Rainforest|Wetlands"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "345",
+  "weight_female_kg": "405",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Mexican Redknee",
+  "slug_en": "mexican-redknee",
+  "conservation_status": "Vulnerable",
+  "class": "Arachnida",
+  "order": "Araneae",
+  "family": "Theraphosidae",
+  "genus": "Brachypelma",
+  "biomes": [
+   "Desert|Rainforest|Temperate"
+  ],
+  "continents": "NorthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Sumatran Tiger",
+  "slug_en": "sumatran-tiger",
+  "conservation_status": "Endangered",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Felidae",
+  "genus": "Panthera",
+  "biomes": [
+   "Rainforest|Wetlands"
+  ],
+  "continents": "Asia",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "NoseToRump",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "true",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "African Tigerfish",
+  "slug_en": "african-tigerfish",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Characiformes",
+  "family": "Alestidae",
+  "genus": "Hydrocynus",
+  "biomes": [
+   "LakesAndRivers|LakesAndRivers"
+  ],
+  "continents": "Africa|Africa",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Gal\u00e1pagos Giant Tortoise",
+  "slug_en": "gal\u00e1pagos-giant-tortoise",
+  "conservation_status": "Vulnerable",
+  "class": "Reptilia",
+  "order": "Testudines",
+  "family": "Testudinidae",
+  "genus": "Chelonoidis",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "SouthAmerica",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "1",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Toco Toucan",
+  "slug_en": "toco-toucan",
+  "conservation_status": "LeastConcern",
+  "class": "Aves",
+  "order": "Piciformes",
+  "family": "Ramphastidae",
+  "genus": "Ramphastos",
+  "biomes": [
+   "Rainforest|Savannah|Wetlands"
+  ],
+  "continents": "SouthAmerica",
+  "enclosure_types": [
+   "HabitatFlying"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Golden Poison Frog",
+  "slug_en": "golden-poison-frog",
+  "conservation_status": "Endangered",
+  "class": "Amphibia",
+  "order": "Anura",
+  "family": "Dendrobatidae",
+  "genus": "Phyllobates",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "SouthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Lehmann's Poison Frog",
+  "slug_en": "lehmann-s-poison-frog",
+  "conservation_status": "CriticallyEndangered",
+  "class": "Amphibia",
+  "order": "Anura",
+  "family": "Dendrobatidae",
+  "genus": "Oophaga",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "SouthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Red-Eyed Tree Frog",
+  "slug_en": "red-eyed-tree-frog",
+  "conservation_status": "LeastConcern",
+  "class": "Amphibia",
+  "order": "Anura",
+  "family": "Phyllomedusidae",
+  "genus": "Agalychnis",
+  "biomes": [
+   "Rainforest"
+  ],
+  "continents": "NorthAmerica|SouthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "0.001",
+  "weight_female_kg": "0.0012",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Golden Trevally",
+  "slug_en": "golden-trevally",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Carangiformes",
+  "family": "Carangidae",
+  "genus": "Gnathanodon",
+  "biomes": [
+   "Estuarine|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Clown Triggerfish",
+  "slug_en": "clown-triggerfish",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Tetraodontiformes",
+  "family": "Balistidae",
+  "genus": "Balistoides",
+  "biomes": [
+   "Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "2",
+  "weight_female_kg": "2",
+  "barrier_grade": "1",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Brown Trout",
+  "slug_en": "brown-trout",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Salmoniformes",
+  "family": "Salmonidae",
+  "genus": "Salmo",
+  "biomes": [
+   "LakesAndRivers|LakesAndRivers"
+  ],
+  "continents": "Europe|Europe",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Pacific Bluefin Tuna",
+  "slug_en": "pacific-bluefin-tuna",
+  "conservation_status": "NearThreatened",
+  "class": "Actinopterygii",
+  "order": "Scombriformes",
+  "family": "Scombridae",
+  "genus": "Thunnus",
+  "biomes": [
+   "OpenSea"
+  ],
+  "continents": "PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Diamondback Terrapin",
+  "slug_en": "diamondback-terrapin",
+  "conservation_status": "Vulnerable",
+  "class": "Reptilia",
+  "order": "Testudines",
+  "family": "Emydidae",
+  "genus": "Malaclemys",
+  "biomes": [
+   "Estuarine|Mangrove|Wetlands"
+  ],
+  "continents": "NorthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "0.32",
+  "weight_female_kg": "0.72",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Hawksbill Turtle",
+  "slug_en": "hawksbill-turtle",
+  "conservation_status": "CriticallyEndangered",
+  "class": "Reptilia",
+  "order": "Testudines",
+  "family": "Cheloniidae",
+  "genus": "Eretmochelys",
+  "biomes": [
+   "Estuarine|Mangrove|OpenSea|Reef"
+  ],
+  "continents": "Africa|Asia|AtlanticOcean|Australasia|Europe|IndianOcean|NorthAmerica|PacificOcean|SouthAmerica",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "NoseToRump",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Bluespine Unicornfish",
+  "slug_en": "bluespine-unicornfish",
+  "conservation_status": "LeastConcern",
+  "class": "Actinopterygii",
+  "order": "Acanthuriformes",
+  "family": "Acanthuridae",
+  "genus": "Naso",
+  "biomes": [
+   "Reef|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean|IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium|Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Desert Horned Viper",
+  "slug_en": "desert-horned-viper",
+  "conservation_status": "LeastConcern",
+  "class": "Reptilia",
+  "order": "Squamata",
+  "family": "Viperidae",
+  "genus": "Cerastes",
+  "biomes": [
+   "Desert"
+  ],
+  "continents": "Africa|Asia",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "1",
+  "weight_female_kg": "1",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Eastern Brown Snake",
+  "slug_en": "eastern-brown-snake",
+  "conservation_status": "LeastConcern",
+  "class": "Reptilia",
+  "order": "Squamata",
+  "family": "Elapidae",
+  "genus": "Pseudonaja",
+  "biomes": [
+   "Desert|Savannah|Temperate"
+  ],
+  "continents": "Australasia",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "Western Diamondback Rattlesnake",
+  "slug_en": "western-diamondback-rattlesnake",
+  "conservation_status": "LeastConcern",
+  "class": "Reptilia",
+  "order": "Squamata",
+  "family": "Viperidae",
+  "genus": "Crotalus",
+  "biomes": [
+   "Desert|Savannah|Temperate"
+  ],
+  "continents": "NorthAmerica",
+  "enclosure_types": [
+   "Exhibit"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Length",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "",
+  "barrier_min_height_m": "",
+  "barrier_climb_proof": "",
+  "barrier_allow_water": ""
+ },
+ {
+  "common_name": "White-Backed Vulture",
+  "slug_en": "white-backed-vulture",
+  "conservation_status": "CriticallyEndangered",
+  "class": "Aves",
+  "order": "Accipitriformes",
+  "family": "Accipitridae",
+  "genus": "Gyps",
+  "biomes": [
+   "Desert|Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatFlying"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "LegSpan",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Common Warthog",
+  "slug_en": "common-warthog",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Suidae",
+  "genus": "Phacochoerus",
+  "biomes": [
+   "Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "105",
+  "weight_female_kg": "60",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Black Wildebeest",
+  "slug_en": "black-wildebeest",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Bovidae",
+  "genus": "Connochaetes",
+  "biomes": [
+   "Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "170",
+  "weight_female_kg": "140",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Blue Wildebeest",
+  "slug_en": "blue-wildebeest",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Artiodactyla",
+  "family": "Bovidae",
+  "genus": "Connochaetes",
+  "biomes": [
+   "Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "227.5",
+  "weight_female_kg": "200",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Grey Wolf",
+  "slug_en": "grey-wolf",
+  "conservation_status": "LeastConcern",
+  "class": "Mammalia",
+  "order": "Carnivora",
+  "family": "Canidae",
+  "genus": "Canis",
+  "biomes": [
+   "Desert|Rainforest|Savannah|Taiga|Temperate|Tundra"
+  ],
+  "continents": "Asia|Europe|NorthAmerica",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "44",
+  "weight_female_kg": "37",
+  "barrier_grade": "3",
+  "barrier_min_height_m": "3",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Humphead Wrasse",
+  "slug_en": "humphead-wrasse",
+  "conservation_status": "Endangered",
+  "class": "Actinopterygii",
+  "order": "Labriformes",
+  "family": "Labridae",
+  "genus": "Cheilinus",
+  "biomes": [
+   "OpenSea|Reef"
+  ],
+  "continents": "IndianOcean|PacificOcean",
+  "enclosure_types": [
+   "HabitatAquarium"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "NoseToRump",
+  "weight_male_kg": "",
+  "weight_female_kg": "",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ },
+ {
+  "common_name": "Plains Zebra",
+  "slug_en": "plains-zebra",
+  "conservation_status": "NearThreatened",
+  "class": "Mammalia",
+  "order": "Perissodactyla",
+  "family": "Equidae",
+  "genus": "Equus",
+  "biomes": [
+   "Savannah"
+  ],
+  "continents": "Africa",
+  "enclosure_types": [
+   "HabitatTerrestrial"
+  ],
+  "content_pack": "BaseGame",
+  "size_measurement": "Shoulder",
+  "weight_male_kg": "1",
+  "weight_female_kg": "1",
+  "barrier_grade": "2",
+  "barrier_min_height_m": "1.25",
+  "barrier_climb_proof": "false",
+  "barrier_allow_water": "false"
+ }
+]
