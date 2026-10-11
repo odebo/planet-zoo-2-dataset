@@ -6,6 +6,7 @@ same source.
 
 Maintained alongside the reference site at **https://pz2tools.wiki/** — if you
 only need to read the data, the site renders it as browsable tables.
+The same tables are also browsable as pages: [all 130 launch species](https://pz2tools.wiki/animals/), the [1,221-pair habitat compatibility chart](https://pz2tools.wiki/cohabitation/), a [habitat calculator](https://pz2tools.wiki/calculator/) (barrier grade, minimum height, biome and enclosure per species, and the strictest requirement across a multi-species selection) and a [two-species compatibility checker](https://pz2tools.wiki/planner/) that quotes the official sentence behind every verdict.
 
 **Cite this dataset:** DOI [10.5281/zenodo.23263613](https://doi.org/10.5281/zenodo.23263613)
 (archived on Zenodo / CERN, CC BY 4.0, with a citable DOI).
