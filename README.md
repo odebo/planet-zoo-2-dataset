@@ -6,7 +6,6 @@ same source.
 
 Maintained alongside the reference site at **https://pz2tools.wiki/** — if you
 only need to read the data, the site renders it as browsable tables.
-The same tables are also browsable as pages: [all 130 launch species](https://pz2tools.wiki/animals/), the [1,221-pair habitat compatibility chart](https://pz2tools.wiki/cohabitation/), a [habitat calculator](https://pz2tools.wiki/calculator/) (barrier grade, minimum height, biome and enclosure per species, and the strictest requirement across a multi-species selection) and a [two-species compatibility checker](https://pz2tools.wiki/planner/) that quotes the official sentence behind every verdict.
 
 **Cite this dataset:** DOI [10.5281/zenodo.23263612](https://doi.org/10.5281/zenodo.23263612)
 (archived on Zenodo / CERN, CC BY 4.0, with a citable DOI — the concept DOI always
@@ -22,6 +21,8 @@ If you want to browse rather than parse, the same data is rendered here:
 | [pz2tools.wiki/regions/](https://pz2tools.wiki/regions/) | the roster grouped by the 12 continents and oceans |
 | [pz2tools.wiki/biomes/](https://pz2tools.wiki/biomes/) | which species accept each biome |
 | [pz2tools.wiki/cohabitation/](https://pz2tools.wiki/cohabitation/) | the 1,221-pair compatibility chart |
+| [pz2tools.wiki/calculator/](https://pz2tools.wiki/calculator/) | barrier grade, minimum height, biome and enclosure per species — and the strictest requirement across a multi-species selection |
+| [pz2tools.wiki/planner/](https://pz2tools.wiki/planner/) | two-species check that quotes the official sentence behind the verdict |
 | [pz2tools.wiki/updates/](https://pz2tools.wiki/updates/) | which verdicts changed after a patch, and why |
 | [pz2tools.wiki/editorial-policy/](https://pz2tools.wiki/editorial-policy/) | the rules behind every verdict |
 
