@@ -8,8 +8,25 @@ Maintained alongside the reference site at **https://pz2tools.wiki/** — if you
 only need to read the data, the site renders it as browsable tables.
 The same tables are also browsable as pages: [all 130 launch species](https://pz2tools.wiki/animals/), the [1,221-pair habitat compatibility chart](https://pz2tools.wiki/cohabitation/), a [habitat calculator](https://pz2tools.wiki/calculator/) (barrier grade, minimum height, biome and enclosure per species, and the strictest requirement across a multi-species selection) and a [two-species compatibility checker](https://pz2tools.wiki/planner/) that quotes the official sentence behind every verdict.
 
-**Cite this dataset:** DOI [10.5281/zenodo.23263613](https://doi.org/10.5281/zenodo.23263613)
-(archived on Zenodo / CERN, CC BY 4.0, with a citable DOI).
+**Cite this dataset:** DOI [10.5281/zenodo.23263612](https://doi.org/10.5281/zenodo.23263612)
+(archived on Zenodo / CERN, CC BY 4.0, with a citable DOI — the concept DOI always
+resolves to the newest version; v1 is pinned at 10.5281/zenodo.23263613).
+
+## Read it as pages, not files
+
+If you want to browse rather than parse, the same data is rendered here:
+
+| Page | What it answers |
+|---|---|
+| [pz2tools.wiki/animals/](https://pz2tools.wiki/animals/) | the full 130-species roster with every field |
+| [pz2tools.wiki/regions/](https://pz2tools.wiki/regions/) | the roster grouped by the 12 continents and oceans |
+| [pz2tools.wiki/biomes/](https://pz2tools.wiki/biomes/) | which species accept each biome |
+| [pz2tools.wiki/cohabitation/](https://pz2tools.wiki/cohabitation/) | the 1,221-pair compatibility chart |
+| [pz2tools.wiki/updates/](https://pz2tools.wiki/updates/) | which verdicts changed after a patch, and why |
+| [pz2tools.wiki/editorial-policy/](https://pz2tools.wiki/editorial-policy/) | the rules behind every verdict |
+
+Long-form notes about the data live at [pz2tools.mataroa.blog](https://pz2tools.mataroa.blog/)
+and [dev.to/asrocky010](https://dev.to/asrocky010_7cfd07f11375df).
 
 ## What's in here
 
@@ -90,6 +107,7 @@ pairs. `unverified` is a real category, not a rounding error — treat it as
   "size_measurement": "Shoulder",
   "weight_male_kg": "50",
   "weight_female_kg": "50",
+  "continents": "Africa",             // pipe-delimited string, not an array
   "barrier_grade": "2",
   "barrier_min_height_m": "1",
   "barrier_climb_proof": "false",
@@ -99,6 +117,15 @@ pairs. `unverified` is a real category, not a rounding error — treat it as
 
 `animals.csv` keeps the raw delimiter-separated form: multi-value fields
 (`biomes`, `continents`, `enclosure_types`) are `;`-separated as published.
+
+Two parsing traps worth flagging, because both cost us rework:
+
+* In the JSON, `biomes` and `enclosure_types` are **arrays** but `continents` is a
+  single **`|`-delimited string** (`"Asia|Europe"`). Some records repeat a token —
+  split, then de-duplicate.
+* Aquatic and exhibit species carry `""` (empty string, not `null`) for
+  `barrier_grade`, `barrier_min_height_m` and both barrier flags. Coerce before
+  averaging, or your "median barrier height" quietly includes zeros.
 
 ## License
 
